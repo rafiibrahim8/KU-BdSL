@@ -11,6 +11,7 @@ Khulna University Bengali Sign Language dataset
     * [AMSLD](#amsld)
 * [About Class Names](#about-class-names)
 * [Authors](#authors)
+* [Mirrors](#mirrors)
 * [Citation](#citation)
 * [License](#license)
 
@@ -83,6 +84,17 @@ Here is the complete map for class names to Bengali characters -
 * [Ibrahim Rafi](https://orcid.org/0000-0002-4660-4999)
 * [Md. Zahid Akon](https://orcid.org/0000-0002-4346-1339)
 * [Abdullah-Al Nahid](https://orcid.org/0000-0003-2391-5767)
+
+## Mirrors
+KU-BdSL can also be downloaded from the following sources:
+* [Google Drive](https://drive.google.com/file/d/1-8V85G9UDBZq4btg9WEo6rfxzJ3P6sju/view)
+* [OneDrive](https://kuacbd-my.sharepoint.com/:u:/g/personal/170916_ku_ac_bd/EXETjdlR-nZCvpLO1uT2d0cBFpgDftzvEhuf7dpdJqf0cQ?e=Y1jqcv)
+* [Icedrive](https://icedrive.net/0/0bPSv45Q4O)
+
+After downloading `KU-BdSL-V1.zip` from the above sources, it is recommended to verify your downloads. The file should produce the following sha256sum - 
+```
+163d837704cb4172be52c223719f1dbb7a2c31c6163294f576a27dc1580c9a10
+```
 
 ## Citation
 If you want to use KU-BdSL, please cite it from [Mendeley Data](https://data.mendeley.com/datasets/scpvm2nbkm/1) as follows -
