@@ -90,6 +90,8 @@ KU-BdSL can also be downloaded from the following sources:
 * [Google Drive](https://drive.google.com/file/d/1-8V85G9UDBZq4btg9WEo6rfxzJ3P6sju/view)
 * [OneDrive](https://kuacbd-my.sharepoint.com/:u:/g/personal/170916_ku_ac_bd/EXETjdlR-nZCvpLO1uT2d0cBFpgDftzvEhuf7dpdJqf0cQ?e=Y1jqcv)
 * [Icedrive](https://icedrive.net/0/0bPSv45Q4O)
+* [Yandex.Disk](https://disk.yandex.com/d/wdlIhF1MtDfTNg)
+* [pCloud](https://u.pcloud.link/publink/show?code=XZ2bkAXZQIdRBGuoWNkDtr6NMlIj7H7Bvl8k)
 
 After downloading `KU-BdSL-V1.zip` from the above sources, it is recommended to verify your downloads. The file should produce the following sha256sum - 
 ```
